@@ -26,6 +26,12 @@
   <a href="#-resources">Resources</a>
 </p>
 
+<p align="center">
+  <a href="./study-notes/SC-500_Complete_Study_Notes.pdf">
+    📥 <strong>Download Complete Study Notes PDF</strong>
+  </a>
+</p>
+
 ---
 
 ## 🎯 Purpose
@@ -232,19 +238,15 @@ The companion study notes are structured as a complete SC-500 learning resource 
 - Final revision strategy
 - Verification and lab resources
 
-### 📖 Recommended Study Method
-
-- Verification and lab resources
-
 ### 📥 Download Complete Study Notes
 
 <p align="center">
-
-<a href="./study-notes/SC-500_Complete_Study_Notes.pdf">
-  <img src="https://img.shields.io/badge/📥%20Download-Complete%20Study%20Notes%20PDF-0078D4?style=for-the-badge" alt="Download SC-500 Complete Study Notes PDF">
-</a>
-
+  <a href="./study-notes/SC-500_Complete_Study_Notes.pdf">
+    <img src="https://img.shields.io/badge/📥%20DOWNLOAD-COMPLETE%20STUDY%20NOTES%20PDF-0078D4?style=for-the-badge" alt="Download SC-500 Complete Study Notes PDF">
+  </a>
 </p>
+
+> 📌 **The PDF is the primary downloadable study reference. An editable DOCX version is also maintained in the same folder.**
 
 ### 📖 Recommended Study Method
 
@@ -374,7 +376,7 @@ What is the least-privilege / most appropriate option?
 
 | Area | Status |
 |---|---|
-| SC-500 Study Notes | 🟢 Available |
+| SC-500 Study Notes | 🟢 PDF Available |
 | Identity & Access | 🟢 |
 | Data & Secrets | 🟢 |
 | Network Security | 🟢 |
@@ -400,7 +402,9 @@ SC-500-Cloud-AI-Security-Engineer-Master-Guide/
 │   └── sc500-master-guide-banner.png
 │
 ├── study-notes/
-│   └── Complete SC-500 Study Notes
+│   ├── SC-500_Complete_Study_Notes.pdf
+│   ├── SC-500_Complete_Study_Notes_EN.docx
+│   └── README.md
 │
 ├── labs/
 │   ├── AI Security
