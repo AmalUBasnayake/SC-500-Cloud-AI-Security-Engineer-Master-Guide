@@ -1,4 +1,28 @@
-# 🛡️ SC-500 Cloud & AI Security Engineer — Master Guide
+<p align="center">
+  <img src="assets/sc500-master-guide-banner.png" alt="SC-500 Cloud & AI Security Engineer Master Guide">
+</p>
+
+<h1 align="center">
+SC-500 Cloud & AI Security Engineer - Master Guide
+</h1>
+
+<p align="center">
+A practical, continuously updated guide covering Cloud & AI Security,
+Microsoft Security, hands-on labs, detection, investigation, response,
+automation, and exam preparation.
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Microsoft-SC--500-0078D4?style=for-the-badge&logo=microsoft">
+<img src="https://img.shields.io/badge/Cloud%20Security-Azure-0078D4?style=for-the-badge&logo=microsoftazure">
+<img src="https://img.shields.io/badge/AI%20Security-Focused-00A4EF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Hands--On-Labs-111827?style=for-the-badge">
+<img src="https://img.shields.io/badge/Exam-Preparation-111827?style=for-the-badge">
+
+</p>
+
+# 🛡️ SC-500 Cloud & AI Security Engineer - Master Guide
 
 > A practical, continuously updated learning and hands-on engineering guide for **Microsoft Certified: Cloud and AI Security Engineer Associate (SC-500)**.
 
