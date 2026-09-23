@@ -234,6 +234,20 @@ The companion study notes are structured as a complete SC-500 learning resource 
 
 ### 📖 Recommended Study Method
 
+- Verification and lab resources
+
+### 📥 Download Complete Study Notes
+
+<p align="center">
+
+<a href="./study-notes/SC-500_Complete_Study_Notes.pdf">
+  <img src="https://img.shields.io/badge/📥%20Download-Complete%20Study%20Notes%20PDF-0078D4?style=for-the-badge" alt="Download SC-500 Complete Study Notes PDF">
+</a>
+
+</p>
+
+### 📖 Recommended Study Method
+
 ```text
 Concept
   ↓
