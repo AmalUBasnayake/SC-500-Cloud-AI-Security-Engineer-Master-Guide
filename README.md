@@ -59,29 +59,12 @@ Rather than treating security topics as isolated subjects, the guide connects:
 
 ## 🧭 Learning Roadmap
 
-The guide follows a practical engineering progression:
+The guide follows a practical engineering progression
 
-```text
-Identity
-   ↓
-Data & Secrets
-   ↓
-Network Security
-   ↓
-AI / Compute / Application Security
-   ↓
-Security Posture
-   ↓
-Detection
-   ↓
-Investigation
-   ↓
-Response
-   ↓
-Automation
-   ↓
-Governance & Secure Architecture
-```
+<p align="center">
+  <img src="assets/Learning-Roadmap.png" alt="Learning Roadmap">
+</p>
+
 
 ### 01 — Identity, Access & Governance
 
@@ -160,33 +143,11 @@ Governance & Secure Architecture
 
 Every lab follows an engineering workflow:
 
-```text
-Objective
-   ↓
-Scenario
-   ↓
-Architecture
-   ↓
-Prerequisites
-   ↓
-Implementation
-   ↓
-Security Configuration
-   ↓
-Validation
-   ↓
-Telemetry / Evidence
-   ↓
-Detection
-   ↓
-Investigation
-   ↓
-Response
-   ↓
-Automation
-   ↓
-Lessons Learned
-```
+<p align="center">
+  <img src="assets/Hands-on -Labs.png" alt="Hands-on Labs">
+</p>
+
+
 
 ### 🤖 AI Security Lab Portfolio
 
@@ -250,23 +211,9 @@ The companion study notes are structured as a complete SC-500 learning resource 
 
 ### 📖 Recommended Study Method
 
-```text
-Concept
-  ↓
-Architecture
-  ↓
-Microsoft Service
-  ↓
-Hands-on Lab
-  ↓
-Attack / Defense Thinking
-  ↓
-Scenario
-  ↓
-Exam Question
-  ↓
-Interview Question
-```
+<p align="center">
+  <img src="assets/Recommended-Study-Method.png" alt="Recommended Study Method">
+</p>
 
 ---
 
