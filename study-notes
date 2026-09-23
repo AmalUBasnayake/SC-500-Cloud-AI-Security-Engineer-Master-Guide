@@ -1,0 +1,19 @@
+# 📚 SC-500 Complete Study Notes
+
+This folder contains the complete companion study notes for the SC-500 Cloud and AI Security Engineer Associate learning journey.
+
+## 📖 Main Document
+
+**[SC-500 Complete Study Notes](./SC-500_Complete_Study_Notes.pdf)**
+
+The document is organized around the four SC-500 security domains and includes exam-focused comparison tables, least-privilege guidance, exam traps, a final-week revision plan, and resources/labs.
+
+## 🧭 How this repository uses the notes
+
+- `README.md` — Master Guide / navigation layer
+- `study-notes/` — Detailed theory and revision reference
+- `labs/` — Hands-on implementation and engineering evidence
+- `cheat-sheets/` — Quick-reference material
+- `exam-preparation/` — Scenario and exam-focused preparation
+
+> The Master Guide is the map; the Complete Study Notes are the detailed reference.
