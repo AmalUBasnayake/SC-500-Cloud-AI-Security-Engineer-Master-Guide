@@ -160,6 +160,9 @@ Every lab follows an engineering workflow:
 | 05 | [AI Security Posture & Threat Protection — Defender for Cloud](https://github.com/AmalUBasnayake/SC-500-Lab-05-AI-Security-Posture-Threat-Protection-Microsoft-Defender-for-Cloud) | AI security posture and threat protection |
 | 06 | [AI Runtime Threat Protection — Defender for Cloud](https://github.com/AmalUBasnayake/SC-500-Lab-06-AI-Runtime-Threat-Protection-Microsoft-Defender-for-Cloud) | Runtime threat protection |
 | 07 | [AI Security Investigation & Response — Defender XDR](https://github.com/AmalUBasnayake/SC-500-Lab-07-AI-Security-Investigation-Response-Microsoft-Defender-XDR) | AI security investigation and response |
+| 08 | [AI Identity Access Security](https://github.com/AmalUBasnayake/SC-500-Lab-08-AI-Identity-Access-Security/tree/main) | AI Identity & Access Security |
+
+
 
 ### 🔐 Lab Engineering Principles
 
