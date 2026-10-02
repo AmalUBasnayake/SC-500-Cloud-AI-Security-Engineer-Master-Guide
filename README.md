@@ -66,7 +66,7 @@ The guide follows a practical engineering progression
 </p>
 
 
-### 01 — Identity, Access & Governance
+### 01 - Identity, Access & Governance
 
 - Microsoft Entra ID
 - Privileged Identity Management (PIM)
@@ -84,7 +84,7 @@ The guide follows a practical engineering progression
 - Backup security
 - Infrastructure as Code security
 
-### 02 — Data, Storage & Network Security
+### 02 - Data, Storage & Network Security
 
 - Azure Storage security
 - Azure SQL security
@@ -101,7 +101,7 @@ The guide follows a practical engineering progression
 - DDoS Protection
 - Web Application Firewall
 
-### 03 — AI, Compute & Application Security
+### 03 - AI, Compute & Application Security
 
 - Microsoft Copilot security
 - Microsoft Purview DSPM for AI
@@ -120,7 +120,7 @@ The guide follows a practical engineering progression
 - App Service
 - Web Application Firewall
 
-### 04 — Security Posture, Detection & Response
+### 04 - Security Posture, Detection & Response
 
 - Microsoft Defender for Cloud
 - Cloud Security Posture Management
@@ -154,12 +154,12 @@ Every lab follows an engineering workflow:
 | # | Lab | Primary Focus |
 |---|---|---|
 | 01 | [Azure OpenAI Private Endpoint Zero Trust Lab](https://github.com/AmalUBasnayake/Azure-OpenAI-Private-Endpoint-Zero-Trust-Lab) | Azure OpenAI, Private Endpoint, Key Vault, Managed Identity, RBAC, Private DNS, Zero Trust |
-| 02 | [Azure Content Safety — Prompt Guard](https://github.com/AmalUBasnayake/azure-content-safety-prompt-guard) | Azure Content Safety / prompt protection |
-| 03 | [Microsoft Purview — AI Shield DLP Lab](https://github.com/AmalUBasnayake/purview-ai-shield-dlp-lab) | Sensitivity Labels, DLP, Microsoft 365 Copilot data protection |
+| 02 | [Azure Content Safety - Prompt Guard](https://github.com/AmalUBasnayake/azure-content-safety-prompt-guard) | Azure Content Safety / prompt protection |
+| 03 | [Microsoft Purview - AI Shield DLP Lab](https://github.com/AmalUBasnayake/purview-ai-shield-dlp-lab) | Sensitivity Labels, DLP, Microsoft 365 Copilot data protection |
 | 04 | [AI Threat Detection & Response — Microsoft Sentinel](https://github.com/AmalUBasnayake/SC-500-Lab-04-AI-Threat-Detection-Response-Microsoft-Sentinel) | AI threat detection and response |
-| 05 | [AI Security Posture & Threat Protection — Defender for Cloud](https://github.com/AmalUBasnayake/SC-500-Lab-05-AI-Security-Posture-Threat-Protection-Microsoft-Defender-for-Cloud) | AI security posture and threat protection |
-| 06 | [AI Runtime Threat Protection — Defender for Cloud](https://github.com/AmalUBasnayake/SC-500-Lab-06-AI-Runtime-Threat-Protection-Microsoft-Defender-for-Cloud) | Runtime threat protection |
-| 07 | [AI Security Investigation & Response — Defender XDR](https://github.com/AmalUBasnayake/SC-500-Lab-07-AI-Security-Investigation-Response-Microsoft-Defender-XDR) | AI security investigation and response |
+| 05 | [AI Security Posture & Threat Protection - Defender for Cloud](https://github.com/AmalUBasnayake/SC-500-Lab-05-AI-Security-Posture-Threat-Protection-Microsoft-Defender-for-Cloud) | AI security posture and threat protection |
+| 06 | [AI Runtime Threat Protection - Defender for Cloud](https://github.com/AmalUBasnayake/SC-500-Lab-06-AI-Runtime-Threat-Protection-Microsoft-Defender-for-Cloud) | Runtime threat protection |
+| 07 | [AI Security Investigation & Response - Defender XDR](https://github.com/AmalUBasnayake/SC-500-Lab-07-AI-Security-Investigation-Response-Microsoft-Defender-XDR) | AI security investigation and response |
 | 08 | [AI Identity Access Security](https://github.com/AmalUBasnayake/SC-500-Lab-08-AI-Identity-Access-Security/tree/main) | AI Identity & Access Security |
 
 
