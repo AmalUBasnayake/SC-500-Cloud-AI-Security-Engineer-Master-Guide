@@ -2,7 +2,7 @@
   <img src="assets/sc500-master-guide-banner.png" alt="SC-500 Cloud & AI Security Engineer Master Guide">
 </p>
 
-<h1 align="center">🛡️ SC-500 Cloud & AI Security Engineer — Master Guide</h1>
+<h1 align="center">🛡️ SC-500 Cloud & AI Security Engineer - Master Guide</h1>
 
 <p align="center">
   <strong>A practical, continuously updated learning and hands-on engineering guide for Microsoft Certified: Cloud and AI Security Engineer Associate (SC-500).</strong>
